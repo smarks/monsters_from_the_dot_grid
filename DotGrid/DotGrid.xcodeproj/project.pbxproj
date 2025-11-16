@@ -13,10 +13,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D0000007000000000000001 /* DotGrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DotGrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0000002000000000000001 /* DotGridApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotGridApp.swift; sourceTree = "<group>"; };
 		D0000004000000000000001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D0000006000000000000001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0000007000000000000001 /* DotGrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DotGrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -260,6 +260,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = NJ55UC9QDK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Monsters from the Dot Grid";
@@ -288,6 +289,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = NJ55UC9QDK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Monsters from the Dot Grid";
